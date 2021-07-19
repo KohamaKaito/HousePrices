@@ -14,11 +14,5 @@
 
 
 # 引用
-
-@article{foobar2019,
-     author = {Doe, John.},
-     title = {FooBar},
-     year = {2019},
-     url = {http://example.com/foobar},
-     ...
-} 
+kaggle-House Price-  
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
