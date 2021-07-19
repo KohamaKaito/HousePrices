@@ -14,5 +14,5 @@
 
 
 # 引用
-kaggle House Price  
+データセット：Dean De Cock, House Price  
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
